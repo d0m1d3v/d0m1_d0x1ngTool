@@ -7,5 +7,6 @@ Also we inform you that some of your your actions may be ILLEGAL and you CAN NOT
 
 how to use tool:
 
-chmod +x d0x1ngTool.sh.sh
+chmod +x d0x1ngTool.sh
+
 ./d0x1ngTool.sh
